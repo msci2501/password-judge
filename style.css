@@ -1,0 +1,55 @@
+body {
+ font-family: 'Segoe UI', sans-serif;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  color: white;
+  
+}
+
+
+
+main {
+  width: 100%;
+  max-width: 500px;
+  text-align: center;
+  
+  
+}
+
+
+
+.card {
+ background: blue;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  
+  
+}
+
+
+.info {
+ text-align: left;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  
+  
+}
+  
+  
+  
+input[type="password"], input[type="text"] {
+  
+  padding: 10px;
+  width: 80%;
+  border: 2px solid #ddd;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  
+
+
+
+}
